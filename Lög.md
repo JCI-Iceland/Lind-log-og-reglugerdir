@@ -3,7 +3,7 @@
 ## 1. grein.
 
 Félagið heitir Junior Chamber International Lind. Starfssvæði félagsins er höfuðborgarsvæðið. Félagið er aðildarfélag Junior Chamber International Íslands.
-## 2. grein.
+## 2. grein. Starfssvið félagsins
 
 JCI Lind veitir vaxtartækifæir til að skara fram úr í viðskiptalífinu.
 
