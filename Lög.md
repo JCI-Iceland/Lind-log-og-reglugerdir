@@ -46,7 +46,7 @@ Fráfarandi forseti skipar forseti síðasta kjörtímabils.
 
 Stjórnin er ákvörðunarhæf þegar helmingur stjórnarmanna er viðstaddur, þar með talinn forseti.
 Við stjórnarákvarðanir ræður meirihluti.
-Við jöfn atkvæði ræður atkvæði forseta.
+Falli atkvæði jöfn hefur forseti úrslitaatkvæði
 
 Forseti og gjaldkeri skulu vera prófkúruhafar á vegum félagsins.
 
