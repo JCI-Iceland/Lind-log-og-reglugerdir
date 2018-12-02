@@ -115,7 +115,7 @@ Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér u
 
 ##  17. grein. Körfundur
 
-Kjörfundur skal haldin í október ár hvert.
+Kjörfundur skal haldin eigi síðar en 31. október ár hvert.
 
 Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dagskrá.
 
