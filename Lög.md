@@ -48,10 +48,10 @@ Stjórnin skipar fulltrúa á landsþing Junior Chamber International Íslands.
 Forseti skipar lögsögumann félagsins við upphaf starfsárs.
 Lögsögumaður má ekki sitja í stjórn félagsins.
 
-## 11. grein.
+## 11. grein. Aðalfundur
 
 Aðalfundur skal haldinn í janúar ár hvert.
-Á öðrum árstímum getur stjórnin boðað til aukaaðalfundar, ef helmingur félagsins eða stjórn óskar þess með rökstuddri beiðni.
+Á öðrum árstímum getur stjórnin boðað til aukaaðalfundar, ef helmingur félagsins utan stjórnar eða stjórn óskar þess með rökstuddri beiðni.
 
 Dagsetningu aðalfunds skal tilkynna í fréttabréfi, vef félagsins eða með sambærilegum hætti að lágmarki 21 degi fyrir fund.
 
