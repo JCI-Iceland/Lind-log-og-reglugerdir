@@ -86,18 +86,22 @@ Dagskrá aðalfundar skal vera sem hér segir:
 
 Starfsár og reikningsár félagsins er eitt ár, frá áramótum til áramóta.
 
-## 13. grein.
+## 13. grein. Styrktar og verkefnasjóður JCI Lindar
 
-Styrktar og verkefnasjóður JCI Lindar er myndaður úr því sem áður var Varasjóður JCI Lindar sem og hagnaði af landsþingi 2014.
-Upphæð sjóðsins er 800.000 miðað við 1.1.2015.
 Meðlimir JCI Lindar geta sótt um styrki til að sækja viðburði, akademíur og þing á vegum JCI hreyfingarinnar, svo sem heimsþing eða European Academy.
+
 Meðlimir í JCI Lind geta sótt um styrki vegna verkefna á vegum JCI sem samrýmast tilgangi JCI Lindar samanber 2. gr. þessara laga.
-Að hámarki er heimilt að veita 20% af höfuðstól sjóðsins eins og hann er 1. Janúar í styrki á hverju starfsári.
-Styrktarbeiðnir þurfa einróma samþykki stjórnar til að teljast samþykktar.
-Ef stjórn félagsins hyggst veita styrki umfram 20% af höfuðstól sjóðsins, skal stjórnin boða til félagsfundar.
+
+Að hámarki er heimilt að veita 1/3 eða 150.000,- Kr., hvor upphæðin sem er hærri, af höfuðstól sjóðsins eins og hann er 1. Janúar í styrki á hverju starfsári. 
+
+Styrktarbeiðnir þurfa að vera samþykktar með 2/3 atkvæða stjórnar til að teljast samþykktar.
+
+Ef stjórn félagsins hyggst veita styrki umfram hámark af höfuðstól sjóðsins, skal stjórnin boða til aðalfundar.
+
 Tillagan skal send með fundarboði og borin upp á fundinum.
 Tillagan telst samþykkt ef 2/3 atkvæðabærra fundarmanna greiða henni atkvæði.
-Stjórn félagsins er heimilt að bæta við höfuðstól sjóðsins að fengnu samþykki aðalfundar.
+
+Stjórn félagsins er heimilt að bæta við höfuðstól sjóðsins að fengnu samþykki félagsfundar.
 
 ## 14. grein.
 
