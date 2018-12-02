@@ -65,7 +65,7 @@ Dagskrá aðalfundar skal vera sem hér segir:
 
 1. Fundarsetning
 2. Kjör fundarstjóra og fundarritara
-3. Tilgangur, takmark og einkunarorð JCI Íslands lesið
+3. Tilgangur og takmark JCI Íslands lesið
 4. Staðfest lögmæti fundarins og kjörgengi fundarmanna
 5. Skýrsla stjórnar
 6. Reikningar félagsins lagðir fram
