@@ -123,11 +123,14 @@ Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dag
 
 Dagskrá kjörfundar skal vera sem hér segir:
 1. Fundur settur.
-2. Skipun fundarstjóra og fundarritara.
+2. Kosning fundarstjóra og fundarritara.
 3. Athugað kjörgengi fundarmanna og lögmæti fundarins kannað.
 4. Kynning frambjóðenda og fyrirspurnir til þeirra.
 5. Kjör forseta.
-6. Kjör annara stjórnarmanna.
-7. Önnur mál.
-8. Fundargerð lesin og samþykkt.
-9. Fundi slitið.
+6. Kjör ritara.
+7. Kjör gjaldkera.
+8. Kjör varaforseta.
+9. Kjör viðtakandi forseta.
+10. Önnur mál.
+11. Fundargerð lesin og samþykkt.
+12. Fundi slitið.
