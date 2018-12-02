@@ -9,11 +9,17 @@ Starf félagsins skal einkennast af einkunnarorðum Junior Chamber International
 
 ## 3. grein.
 
-Skilyrði fyrir inngöngu í JCI Lind eru: Að vera á aldrinum 18 - 40 ára, þó er heimilt að ljúka starfsárinu sem viðkomandi verður fertugur á. Fráfarandi forseti er einn undanþeginn þessu ákvæði. Félagar geta orðið heiðursfélagar. Þeir geta tekið þátt í störfum félagsins sem og aðrir, þó án atkvæðaréttar og kjörgengis.
+Skilyrði fyrir inngöngu í JCI Lind er að vera á aldrinum 18 - 39 ára, þó er heimilt að ganga inn í það árið sem viðkomandi verður fertugur á.
 
 ## 4. grein.
 
-Fullgildir félagar teljast þeir einir sem greitt hafa árgjald sitt fyrir hvert ár er þeir starfa í félaginu. Einungis fullgildir félagar hafa atkvæðarétt á fundum félagsins. Hámarksfjöldi fullgildra félaga er 45 að undanskildum Heiðursfélögum og Senatorum.
+Fullgildir félagar teljast þeir einir sem greitt hafa árgjald sitt fyrir hvert ár er þeir starfa í félaginu og eru á aldrinum 18-39, þó er heimilt að ljúka starfsárinu sem viðkomandi verður fertugur á.
+
+Fráfarandi forseti er einn undanþeginn þessu ákvæði.
+
+Félagar geta orðið heiðursfélagar. Þeir geta tekið þátt í störfum félagsins sem og aðrir, þó án atkvæðaréttar og kjörgengis.
+
+Einungis fullgildir félagar hafa atkvæðarétt á fundum félagsins.
 
 ## 5. grein.
 
