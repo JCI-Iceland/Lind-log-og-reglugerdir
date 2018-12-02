@@ -114,3 +114,28 @@ Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þes
 Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér um að senda breytingar á lögum til stjórnar JCI Íslands.
 
 Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 29. janúar 2017 Tryggvi Freyr Elínarson, ritari aðalfundar. Árni Árnason, fundarstjóri aðalfundar.
+
+##  17. grein.
+
+Félagar geta haldist í félaginu sem styrktarfélagar eftir 40, borgi þeir ennþá félagsgjald. Hafa þeir fullan aðgang að starfsemi félagsins en þó án atkvæðaréttar eða kjörgengis.
+
+##  18. grein.
+
+Félagar geta orðið heiðursfélagar. Þá þurfa þeir ekki að borga félagsgjöld Þeir geta tekið þátt í störfum félagsins sem og aðrir, þó án atkvæðaréttar og kjörgengis.
+
+##  19. grein.
+
+Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dagskrá.
+
+##  20. grein.
+
+Dagskrá kjörfundar skal vera sem hér segir:
+1. Fundur settur.
+2. Skipun fundarstjóra og fundarritara.
+3. Athugað kjörgengi fundarmanna og lögmæti fundarins kannað.
+4. Kynning frambjóðenda og fyrirspurnir til þeirra.
+5. Kjör forseta.
+6. Kjör annara stjórnarmanna.
+7. Önnur mál.
+8. Fundargerð lesin og samþykkt.
+9. Fundi slitið.
