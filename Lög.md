@@ -29,7 +29,23 @@ Félagið heldur gerðarbók og mætingabók. Fundargerðir skal staðfesta á n
 
 ## 8. grein.
 
-Stjórn félagsins skal skipuð 5-7 stjórnarmönnum, þar af skulu allir nema fráfarandi forseti kosnir til eins árs í senn á kjörfundi, sem haldinn skal fyrir aðalfund ár hvert. Fráfarandi forseti á ávallt sæti í stjórn. Stjórnin samanstendur af forseta, ritara, gjaldkera, 1-3 varaforsetum og fráfarandi forseta. Kjósa skal forseta fyrst, þá varaforseta, síðan ritara og síðast gjaldkera. Kjósa skal 2 skoðunarmenn reikninga félagsins. Sami maður má aðeins gegna hverju embætti í eitt starfsár. Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dagskrá.
+Stjórn félagsins skal skipuð 4-9 mönnum.
+Allir utan fráfarandi forseta skulu kosnir til eins árs í senn og skipta þeir þannig með sér verkum:
+
+- forseti
+- ritari
+- gjaldkeri
+- allt að 1 viðtakandi forseti
+- allt að 4 varaforsetar
+- fráfarandi forseti.
+
+Stjórnin er ákvörðunarhæf þegar helmingur stjórnarmanna er viðstaddur, þar með talinn forseti.
+Við stjórnarákvarðanir ræður meirihluti.
+Við jöfn atkvæði ræður atkvæði forseta.
+
+Sami maður má aðeins gegna hverju embætti í eitt starfsár.
+
+Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dagskrá.
 
 ## 9. grein.
 
