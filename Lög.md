@@ -5,7 +5,13 @@
 Félagið heitir Junior Chamber International Lind. Starfssvæði félagsins er höfuðborgarsvæðið. Félagið er aðildarfélag Junior Chamber International Íslands.
 ## 2. grein.
 
-Starf félagsins skal einkennast af einkunnarorðum Junior Chamber International Íslands. Tilgangur félagsins í anda einkunnarorðanna er: Að skapa tækifæri fyrir ungt fólk til að efla leiðtogahæfileika sína, félagslega ábyrgð, frumkvæði og þá samkennd sem nauðsynleg er til að stuðla að jákvæðum breytingum í heiminum. Hreyfingin starfar án tillits til stjórnmálaskoðana, trúarbragða, kyns, litarháttar eða þjóðernis. Að efla félaga sína með námskeiðahaldi og stjórnþjálfun. Að auka þekkingu félaga sinna í þjóðfélags- og alþjóðamálum. Að auka þjóðfélagslegan framganga félagsins og stuðla að framförum í samfélaginu. Að vinna í góðri samvinnu við Junior Chamber hreyfinguna hérlendis og erlendis að hvers kyns áhugamálum hennar.
+JCI Lind veitir vaxtartækifæir til að skara fram úr í viðskiptalífinu.
+
+Starf félagsins skal einkennast af einkunnarorðum Junior Chamber International Íslands. Tilgangur félagsins í anda einkunnarorðanna er: - Skapa tækifæri fyrir ungt fólk til að efla leiðtogahæfileika sína, félagslega ábyrgð, frumkvæði og þá samkennd sem nauðsynleg er til að stuðla að jákvæðum breytingum í heiminum. Hreyfingin starfar án tillits til stjórnmálaskoðana, trúarbragða, kyns, litarháttar eða þjóðernis.
+- Efla félaga sína með námskeiðahaldi og stjórnþjálfun.
+- Auka þekkingu félaga sinna í þjóðfélags- og alþjóðamálum.
+- Auka þjóðfélagslegan framganga félagsins og stuðla að framförum í samfélaginu.
+- Vinna í góðri samvinnu við Junior Chamber hreyfinguna hérlendis og erlendis að hvers kyns áhugamálum hennar. 
 
 ## 3. grein.
 
