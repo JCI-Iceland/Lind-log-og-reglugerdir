@@ -13,7 +13,7 @@ Skilyrði fyrir inngöngu í JCI Lind er að vera á aldrinum 18 - 39 ára, þó
 
 ## 4. grein.
 
-Fullgildir félagar teljast þeir einir sem greitt hafa árgjald sitt fyrir hvert ár er þeir starfa í félaginu og eru á aldrinum 18-39, þó er heimilt að ljúka starfsárinu sem viðkomandi verður fertugur á.
+Fullgildir félagar teljast þeir einir sem greitt hafa árgjald sitt fyrir hvert ár er þeir starfa í félaginu og eru á aldrinum 18-39, þó er heimilt að ljúka starfsárinu sem viðkomandi verður 40.
 
 Fráfarandi forseti er einn undanþeginn þessu ákvæði.
 
