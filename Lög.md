@@ -37,8 +37,6 @@ Starfstími kjörinnar stjórnar er frá aðalfund til aðalfundar.
 Stjórnin hefur heimild til að kalla sérhvern almennan félaga sér til aðstoðar um starfsemi félagsins.
 Stjórnin skal skipuleggja og stýra starfi félagsins milli aðalfunda og fer hún með framkvæmda- og ákvörðunarvald félagsins.
 Stjórnin skipar nefndir, stjórnar starfsemi félagsins og boðar til framkvæmdastjórnarfundar þegar henni telst vera þörf á.
-Til að stjórnin sé ákvörðunarhæf þarf meirihluti stjórnar að vera mættur og þ.á.m. handhafi forsetavalds.
-Meirihluti atkvæða á stjórnarfundum ræður úrslitum, en falli atkvæði jöfn hefur forseti úrslitaatkvæði.
 Til að skuldbinda félagið þarf undirskrift forseta og annars stjórnarmanns, en aðeins gjaldkeri, sem prókúruhafi, getur gefið út ávísanir fyrir hönd félagsins, eða sá stjórnarmaður sem fer með fjármál félagsins.
 Stjórnin ber ábyrgð gerða sinna fyrir aðalfundi og telst hann löglegur ef löglega er til hans boðað.
 Stjórnin skipar fulltrúa á landsþing Junior Chamber International Íslands.
