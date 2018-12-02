@@ -116,5 +116,5 @@ Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér u
 Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 29. janúar 2017 Tryggvi Freyr Elínarson, ritari aðalfundar. Árni Árnason, fundarstjóri aðalfundar.
 
 ## 18. grein.
-Heimilt er að kveða nánar á um starfsemi hreyfingarinnar í reglugerð og skulu breytingar á þeim kynntar á félagsfundi.
+Heimilt er að kveða nánar á um starfsemi félagsins í reglugerð og skulu breytingar á þeim kynntar á félagsfundi.
 Þær taka gildi þegar búið er að sýna félagsmönnum þær með sannalegum hætti.
