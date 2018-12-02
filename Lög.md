@@ -41,7 +41,8 @@ Allir utan fráfarandi forseta skulu kosnir til eins árs í senn og skipta þei
   - samfélags
   - viðskipta
   - alþjóðasamstarfs
-- fráfarandi forseti.
+  
+Fráfarandi forseti skipar forseti síðasta kjörtímabils.
 
 Stjórnin er ákvörðunarhæf þegar helmingur stjórnarmanna er viðstaddur, þar með talinn forseti.
 Við stjórnarákvarðanir ræður meirihluti.
