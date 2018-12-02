@@ -33,7 +33,7 @@ Stjórn félagsins skal skipuð 5-7 stjórnarmönnum, þar af skulu allir nema f
 
 ## 9. grein.
 
-Starfstími kjörinnar stjórnar er frá aðalfund til aðalfundar.
+Starfstími kjörinnar stjórnar er frá aðalfundi til aðalfundar.
 Stjórnin hefur heimild til að kalla sérhvern almennan félaga sér til aðstoðar um starfsemi félagsins.
 Stjórnin skal skipuleggja og stýra starfi félagsins milli aðalfunda og fer hún með framkvæmda- og ákvörðunarvald félagsins.
 Stjórnin skipar nefndir, stjórnar starfsemi félagsins og boðar til framkvæmdastjórnarfundar þegar henni telst vera þörf á.
