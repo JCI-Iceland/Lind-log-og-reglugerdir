@@ -117,17 +117,9 @@ Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér u
 
 ##  17. grein.
 
-Félagar geta haldist í félaginu sem styrktarfélagar eftir 40, borgi þeir ennþá félagsgjald. Hafa þeir fullan aðgang að starfsemi félagsins en þó án atkvæðaréttar eða kjörgengis.
-
-##  18. grein.
-
-Félagar geta orðið heiðursfélagar. Þá þurfa þeir ekki að borga félagsgjöld Þeir geta tekið þátt í störfum félagsins sem og aðrir, þó án atkvæðaréttar og kjörgengis.
-
-##  19. grein.
-
 Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dagskrá.
 
-##  20. grein.
+##  18. grein.
 
 Dagskrá kjörfundar skal vera sem hér segir:
 1. Fundur settur.
