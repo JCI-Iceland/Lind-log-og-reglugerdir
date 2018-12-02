@@ -50,7 +50,7 @@ Við jöfn atkvæði ræður atkvæði forseta.
 
 Forseti og gjaldkeri skulu vera prófkúruhafar á vegum félagsins.
 
-Sami maður má aðeins gegna hverju embætti í eitt starfsár.
+Einstaklingur má aðeins gegna hverju embætti í eitt starfsár.
 
 ## 9. grein.
 
