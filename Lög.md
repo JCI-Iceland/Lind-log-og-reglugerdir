@@ -113,8 +113,6 @@ Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þes
 
 Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér um að senda breytingar á lögum til stjórnar JCI Íslands.
 
-Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 29. janúar 2017 Tryggvi Freyr Elínarson, ritari aðalfundar. Árni Árnason, fundarstjóri aðalfundar.
-
 ##  17. grein. Körfundur
 
 Kjörfundur skal haldin í október ár hvert.
@@ -134,3 +132,5 @@ Dagskrá kjörfundar skal vera sem hér segir:
 10. Önnur mál.
 11. Fundargerð lesin og samþykkt.
 12. Fundi slitið.
+
+Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 29. janúar 2017 Tryggvi Freyr Elínarson, ritari aðalfundar. Árni Árnason, fundarstjóri aðalfundar.
