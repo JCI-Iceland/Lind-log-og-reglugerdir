@@ -36,7 +36,11 @@ Allir utan fráfarandi forseta skulu kosnir til eins árs í senn og skipta þei
 - ritari
 - gjaldkeri
 - allt að 1 viðtakandi forseti
-- allt að 4 varaforsetar
+- allt að 4 varaforsetar, 1 fyrir hvert svið tækifærana
+  - einstaklings
+  - samfélags
+  - viðskipta
+  - alþjóðasamstarfs
 - fráfarandi forseti.
 
 Stjórnin er ákvörðunarhæf þegar helmingur stjórnarmanna er viðstaddur, þar með talinn forseti.
@@ -44,8 +48,6 @@ Við stjórnarákvarðanir ræður meirihluti.
 Við jöfn atkvæði ræður atkvæði forseta.
 
 Sami maður má aðeins gegna hverju embætti í eitt starfsár.
-
-Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dagskrá.
 
 ## 9. grein.
 
