@@ -25,6 +25,8 @@ Heiðurs- og styrktarfélagar geta tekið þátt í störfum félagsins, þó á
 
 Einungis fullgildir félagar hafa atkvæðarétt á fundum félagsins.
 
+Félagar sem skulda félaginu teljast ekki fullgildir meðlimir.
+
 ## 5. grein.
 
 Félagið gefur út félagatal og heldur utan um stig félaga sinna á JCI braut.
