@@ -17,7 +17,11 @@ Fullgildir félagar teljast þeir einir sem greitt hafa árgjald sitt fyrir hver
 
 Fráfarandi forseti er einn undanþeginn þessu ákvæði.
 
-Félagar geta orðið heiðursfélagar. Þeir geta tekið þátt í störfum félagsins sem og aðrir, þó án atkvæðaréttar og kjörgengis.
+Félagi getur orðið heiðursfélagi. Samanber lög JCI Ísland.
+
+Félagi getur haldist í félaginu sem styrktarfélagi haldi hann áfram að borga félagsgjöld.
+
+Heiðurs- og styrktarfélagar geta tekið þátt í störfum félagsins, þó án atkvæðaréttar og kjörgengis.
 
 Einungis fullgildir félagar hafa atkvæðarétt á fundum félagsins.
 
