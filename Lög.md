@@ -115,11 +115,11 @@ Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér u
 
 Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 29. janúar 2017 Tryggvi Freyr Elínarson, ritari aðalfundar. Árni Árnason, fundarstjóri aðalfundar.
 
-##  17. grein.
+##  17. grein. Körfundur
+
+Kjörfundur skal haldin í október ár hvert.
 
 Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dagskrá.
-
-##  18. grein.
 
 Dagskrá kjörfundar skal vera sem hér segir:
 1. Fundur settur.
