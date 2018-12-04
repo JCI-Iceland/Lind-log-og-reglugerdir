@@ -51,7 +51,7 @@ Lögsögumaður má ekki sitja í stjórn félagsins.
 ## 11. grein. Aðalfundur
 
 Aðalfundur skal haldinn í janúar ár hvert.
-Á öðrum árstímum getur stjórnin boðað til aukaaðalfundar, ef helmingur félagsins utan stjórnar eða stjórn óskar þess með rökstuddri beiðni.
+Á öðrum árstímum skal stjórnin boðað til aukaaðalfundar, ef helmingur félagsins utan stjórnar eða stjórn óskar þess með rökstuddri beiðni.Hann skal boðaður innan 2 vikna.
 
 Dagsetningu aðalfunds skal tilkynna í fréttabréfi, vef félagsins eða með sambærilegum hætti að lágmarki 21 degi fyrir fund.
 
