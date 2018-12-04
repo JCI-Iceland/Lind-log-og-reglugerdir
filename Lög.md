@@ -113,7 +113,7 @@ Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þes
 
 Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér um að senda breytingar á lögum til stjórnar JCI Íslands.
 
-##  17. grein. Körfundur
+##  17. grein. Kjörfundur
 
 Kjörfundur skal haldin eigi síðar en 31. október ár hvert.
 
