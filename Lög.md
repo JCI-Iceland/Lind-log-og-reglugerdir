@@ -15,12 +15,9 @@ Skilyrði fyrir inngöngu í JCI Lind eru: Að vera á aldrinum 18 - 40 ára, þ
 
 Fullgildir félagar teljast þeir einir sem greitt hafa árgjald sitt fyrir hvert ár er þeir starfa í félaginu. Einungis fullgildir félagar hafa atkvæðarétt á fundum félagsins. Hámarksfjöldi fullgildra félaga er 45 að undanskildum Heiðursfélögum og Senatorum.
 
-## 5. grein.
+## 5. grein. Hlutverk félagsins
 
 Félagið gefur út félagatal og heldur utan um stig félaga sinna á JCI braut.
-
-## 6. grein.
-
 Félagið heldur gerðarbók og mætingabók. Fundargerðir skal staðfesta á næsta félagsfundi.
 
 ## 7. grein.
