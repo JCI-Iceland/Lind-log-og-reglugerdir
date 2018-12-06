@@ -105,7 +105,7 @@ Stjórn félagsins er heimilt að bæta við höfuðstól sjóðsins að fengnu 
 Til samþykktar þarf 2/3 hluta atkvæða á báðum fundum.
 Á seinni fundinum skal tekin ákvörðun um ráðstöfun eigna.
 
-## 15. grein.
+## 15. grein. Viðbót á lögum
 
 Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þessum.
 
