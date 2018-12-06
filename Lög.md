@@ -1,6 +1,6 @@
 # Lög JCI Lindar Junior Chamber International Lind
 
-## 1. grein.
+## 1. grein. Félagið
 
 Félagið heitir Junior Chamber International Lind, skammstafað JCI Lind.  Félagið er aðildarfélag Junior Chamber International Íslands.
 ## 2. grein.
