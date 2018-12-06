@@ -109,7 +109,7 @@ Til samþykktar þarf 2/3 hluta atkvæða á báðum fundum.
 
 Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þessum.
 
-## 16. grein.
+## 16. grein. Hlutverk lögsögumans
 
 Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér um að senda breytingar á lögum til stjórnar JCI Íslands.
 
