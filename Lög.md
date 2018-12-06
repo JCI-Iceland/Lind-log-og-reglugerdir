@@ -82,7 +82,7 @@ Dagskrá aðalfundar skal vera sem hér segir:
 17. Fundargerð lesin og samþykkt
 18. Fundi slitið
 
-## 12. grein.
+## 12. grein. Starfsár
 
 Starfsár og reikningsár félagsins er eitt ár, frá áramótum til áramóta.
 
