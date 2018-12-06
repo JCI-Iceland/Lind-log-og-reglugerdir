@@ -27,7 +27,7 @@ Félagið heldur gerðarbók og mætingabók. Fundargerðir skal staðfesta á n
 
 Æðsta vald félagsins er í höndum fullgildra félaga á aðalfundi. Á milli aðalfunda fer réttkjörin stjórn með vald félagsins.
 
-## 8. grein.
+## 8. grein. Stjórn
 
 Stjórn félagsins skal skipuð 4-9 mönnum.
 Allir utan fráfarandi forseta skulu kosnir til eins árs í senn og skipta þeir þannig með sér verkum:
