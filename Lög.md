@@ -7,11 +7,11 @@ Félagið heitir Junior Chamber International Lind. Starfssvæði félagsins er 
 
 Starf félagsins skal einkennast af einkunnarorðum Junior Chamber International Íslands. Tilgangur félagsins í anda einkunnarorðanna er: Að skapa tækifæri fyrir ungt fólk til að efla leiðtogahæfileika sína, félagslega ábyrgð, frumkvæði og þá samkennd sem nauðsynleg er til að stuðla að jákvæðum breytingum í heiminum. Hreyfingin starfar án tillits til stjórnmálaskoðana, trúarbragða, kyns, litarháttar eða þjóðernis. Að efla félaga sína með námskeiðahaldi og stjórnþjálfun. Að auka þekkingu félaga sinna í þjóðfélags- og alþjóðamálum. Að auka þjóðfélagslegan framganga félagsins og stuðla að framförum í samfélaginu. Að vinna í góðri samvinnu við Junior Chamber hreyfinguna hérlendis og erlendis að hvers kyns áhugamálum hennar.
 
-## 3. grein.
+## 3. grein. Skilyrði fyrir inngöngu
 
 Skilyrði fyrir inngöngu í JCI Lind er að vera á aldrinum 18 - 39 ára, þó er heimilt að ganga inn í það árið sem viðkomandi verður fertugur á.
 
-## 4. grein.
+## 4. grein. Félagar
 
 Fullgildir félagar teljast þeir einir sem greitt hafa árgjald sitt fyrir hvert ár er þeir starfa í félaginu og eru á aldrinum 18-39, þó er heimilt að ljúka starfsárinu sem viðkomandi verður 40.
 
