@@ -23,13 +23,13 @@ Við fertugt getur félagi orðið styrktarfélagi haldi hann áfram að borga f
 
 Senatorar og Styrktarfélagar geta tekið þátt í störfum félagsins eftir fertugt, þó án atkvæðaréttar.
 
-## 5. grein.
+## 5. grein. Félagatal
 
-Félagið gefur út félagatal og heldur utan um stig félaga sinna á JCI braut.
+Félagið heldur félagatal og heldur utan um stig félaga sinna á JCI braut.
 
-## 6. grein.
+## 6. grein. Fundargerðir
 
-Félagið heldur gerðarbók og mætingabók. Fundargerðir skal staðfesta á næsta félagsfundi.
+Félagið heldur Gerðarbók, þar skulu fundargerðir vistaðar. Fundargerðir skal staðfesta á félagsfundi.
 
 ## 7. grein.
 
