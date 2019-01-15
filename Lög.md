@@ -189,4 +189,4 @@ Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þes
 Til samþykktar þarf 2/3 hluta atkvæða á báðum fundum.
 Á seinni fundinum skal tekin ákvörðun um ráðstöfun eigna.
 
-Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 15. janúar 2018 Ríkey Jóna Eiríksdóttir, ritari aðalfundar. Kjartan Hnasson, fundarstjóri aðalfundar.
+Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 15. janúar 2018 Ríkey Jóna Eiríksdóttir, ritari aðalfundar. Kjartan Hansson, fundarstjóri aðalfundar.
