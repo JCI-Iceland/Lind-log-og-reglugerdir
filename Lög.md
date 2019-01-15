@@ -46,16 +46,24 @@ Félagið heldur Gerðarbók, þar skulu fundargerðir vistaðar. Fundargerðir 
 
 Stjórn félagsins skal skipuð 5-7 stjórnarmönnum, þar af skulu allir nema fráfarandi forseti kosnir til eins árs í senn á kjörfundi, sem haldinn skal fyrir aðalfund ár hvert. Fráfarandi forseti á ávallt sæti í stjórn. Stjórnin samanstendur af forseta, ritara, gjaldkera, 1-3 varaforsetum og fráfarandi forseta. Kjósa skal forseta fyrst, þá varaforseta, síðan ritara og síðast gjaldkera. Kjósa skal 2 skoðunarmenn reikninga félagsins. Sami maður má aðeins gegna hverju embætti í eitt starfsár. Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dagskrá.
 
-## 9. grein.
+## 9. grein. Starf stjórnar
 
-Starfstími kjörinnar stjórnar er frá áramótum til áramóta.
+Starfstími kjörinnar stjórnar er frá aðalfundi til aðalfundar.
+
 Stjórnin hefur heimild til að kalla sérhvern almennan félaga sér til aðstoðar um starfsemi félagsins.
-Stjórnin skal skipuleggja og stýra starfi félagsins milli aðalfunda og fer hún með framkvæmda- og ákvörðunarvald félagsins.
-Stjórnin skipar nefndir, stjórnar starfsemi félagsins og boðar til framkvæmdastjórnarfundar þegar henni telst vera þörf á.
-Til að stjórnin sé ákvörðunarhæf þarf meirihluti stjórnar að vera mættur og þ.á.m. handhafi forsetavalds.
+
+Stjórnin skal skipuleggja og stýra starfi félagsins á starfsári sínu og fer hún með framkvæmda- og ákvörðunarvald félagsins.
+
+Stjórnin skipar nefndir, stjórnar starfsemi félagsins og boðar til stjórnarfundar þegar henni telst vera þörf á.
+
+Til að stjórnin sé ákvörðunarhæf þarf meirihluti stjórnar að vera mættur og þ.á.m. handhafi forsetavalds.	
+
 Meirihluti atkvæða á stjórnarfundum ræður úrslitum, en falli atkvæði jöfn hefur forseti úrslitaatkvæði.
-Til að skuldbinda félagið þarf undirskrift forseta og annars stjórnarmanns, en aðeins gjaldkeri, sem prókúruhafi, getur gefið út ávísanir fyrir hönd félagsins, eða sá stjórnarmaður sem fer með fjármál félagsins.
+
+Prókúruhafar eru gjaldkeri og forseti. Stjórn einni er heimilt að skuldbinda félagið. Skuldbindingar umfram daglegan rekstur þarfnast samþykkis aukins meirihluta fullgildra félagsmanna.
+
 Stjórnin ber ábyrgð gerða sinna fyrir aðalfundi og telst hann löglegur ef löglega er til hans boðað.
+
 Stjórnin skipar fulltrúa á landsþing Junior Chamber International Íslands.
 
 ## 10. grein. Lögsögumaður
