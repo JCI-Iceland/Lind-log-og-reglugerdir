@@ -21,7 +21,7 @@ Einungis fullgildir félagar hafa atkvæðarétt á fundum félagsins.
 
 Við fertugt getur félagi orðið styrktarfélagi haldi hann áfram að borga félagsgjöld.
 
-Senatorar og Styrktarfélagar geta tekið þátt í störfum félagsins eftir fertugt, þó án atkvæðaréttar og kjörgengis.
+Senatorar og Styrktarfélagar geta tekið þátt í störfum félagsins eftir fertugt, þó án atkvæðaréttar.
 
 ## 5. grein.
 
