@@ -15,7 +15,7 @@ Fráfarandi forseti er einn undanþeginn þessu ákvæði.
 
 ## 4. grein. Félagar
 
-Fullgildir félagar teljast þeir einir sem greitt eða samið um árgjald sitt fyrir hvert ár er þeir starfa í félaginu.
+Fullgildir félagar teljast þeir einir sem greitt eða samið hafa um árgjald sitt fyrir hvert ár er þeir starfa í félaginu.
 
 Einungis fullgildir félagar hafa atkvæðarétt á fundum félagsins.
 
