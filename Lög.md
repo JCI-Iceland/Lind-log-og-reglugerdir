@@ -58,7 +58,7 @@ Til að skuldbinda félagið þarf undirskrift forseta og annars stjórnarmanns,
 Stjórnin ber ábyrgð gerða sinna fyrir aðalfundi og telst hann löglegur ef löglega er til hans boðað.
 Stjórnin skipar fulltrúa á landsþing Junior Chamber International Íslands.
 
-## 10. grein.
+## 10. grein. Lögsögumaður
 
 Forseti skipar lögsögumann félagsins við upphaf starfsárs.
 Lögsögumaður má ekki sitja í stjórn félagsins.
