@@ -117,8 +117,11 @@ Til samþykktar þarf 2/3 hluta atkvæða á báðum fundum.
 
 Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þessum.
 
-## 16. grein.
+## 16. grein. Hlutverk lögsögumans
+(Þessi grein kemur eftir grein um skipan lögsögumanns og aðrar greinar endurraðast í samræmi)
 
-Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér um að senda breytingar á lögum til stjórnar JCI Íslands.
+Lögsögumaður upplýsir félaga og stjórn um túlkun laga félagsins sé þess óskað og sker úr um ágreining vegna þeirra.
+
+Lögsögumaður er ábyrgur fyrir uppfærslu laga að loknum aðalfundi og að koma samþykktum lögum til stjórnar JCI Íslands.
 
 Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 29. janúar 2017 Tryggvi Freyr Elínarson, ritari aðalfundar. Árni Árnason, fundarstjóri aðalfundar.
