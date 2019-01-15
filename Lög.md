@@ -9,7 +9,7 @@ Starf félagsins skal einkennast af einkunnarorðum Junior Chamber International
 
 ## 3. grein. Skilyrði fyrir inngöngu
 
-Skilyrði fyrir inngöngu í JCI Lind er að vera á aldrinum 18 - 39 ára, þó er heimilt að ganga inn í það árið sem viðkomandi verður fertugur á.
+Skilyrði fyrir inngöngu í JCI Lind eru: Að vera á aldrinum 18 - 40 ára, þó er heimilt að ljúka starfsárinu sem viðkomandi verður fertugur á.
 
 ## 4. grein. Félagar
 
