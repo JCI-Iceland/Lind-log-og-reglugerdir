@@ -31,7 +31,7 @@ Félagið heldur félagatal og heldur utan um stig félaga sinna á JCI braut.
 
 Félagið heldur Gerðarbók, þar skulu fundargerðir vistaðar. Fundargerðir skal staðfesta á félagsfundi.
 
-## 7. grein.
+## 7. grein. Ákvörðunarvald
 
 Æðsta vald félagsins er í höndum fullgildra félaga á aðalfundi. Á milli aðalfunda fer réttkjörin stjórn með vald félagsins.
 
