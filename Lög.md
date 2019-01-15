@@ -113,9 +113,10 @@ Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þes
 
 Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér um að senda breytingar á lögum til stjórnar JCI Íslands.
 
-## 18. grein. Reglugerðir
+## Ný. grein. Reglugerðir
+(Lendir eftir grein um styrktarsjóð og aðrar greinar endurraðast í samræmi)
 
 Heimilt er að kveða nánar á um starfsemi félagsins í reglugerð og skulu breytingar á þeim kynntar á félagsfundi.
-Þær taka gildi þegar búið er að sýna félagsmönnum þær með sannalegum hætti.
+Þær taka gildi þegar búið er að sýna félagsmönnum þær með sannanlegum hætti.
 
 Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 29. janúar 2017 Tryggvi Freyr Elínarson, ritari aðalfundar. Árni Árnason, fundarstjóri aðalfundar.
