@@ -88,7 +88,7 @@ Starfsár og reikningsár félagsins er eitt ár, frá áramótum til áramóta.
 
 ## 13. grein. Styrktar og verkefnasjóður
 
-Styrktar og verkefnasjóður JCI Lindar er myndaður úr því sem áður var Varasjóður JCI Lindar sem og hagnaði af landsþingi 2014.	Upphæð sjóðsins er 800.000 miðað við 1.1.2015.
+Styrktar og verkefnasjóður JCI Lindar er myndaður úr því sem áður var Varasjóður JCI Lindar sem og hagnaði af landsþingi 2014. Upphæð sjóðsins var 800.000 kr. 1.1.2015.
 
 Meðlimir JCI Lindar geta sótt um styrki til að sækja viðburði, akademíur og þing á vegum JCI hreyfingarinnar, svo sem heimsþing eða European Academy.
 
