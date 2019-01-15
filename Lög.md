@@ -42,9 +42,27 @@ Félagið heldur Gerðarbók, þar skulu fundargerðir vistaðar. Fundargerðir 
 
 Æðsta vald félagsins er í höndum fullgildra félaga á aðalfundi. Á milli aðalfunda fer réttkjörin stjórn með vald félagsins.
 
-## 8. grein.
+## 8. grein. Stjórn
 
-Stjórn félagsins skal skipuð 5-7 stjórnarmönnum, þar af skulu allir nema fráfarandi forseti kosnir til eins árs í senn á kjörfundi, sem haldinn skal fyrir aðalfund ár hvert. Fráfarandi forseti á ávallt sæti í stjórn. Stjórnin samanstendur af forseta, ritara, gjaldkera, 1-3 varaforsetum og fráfarandi forseta. Kjósa skal forseta fyrst, þá varaforseta, síðan ritara og síðast gjaldkera. Kjósa skal 2 skoðunarmenn reikninga félagsins. Sami maður má aðeins gegna hverju embætti í eitt starfsár. Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dagskrá.
+Stjórn félagsins skal skipuð 4-9 mönnum.
+Allir utan fráfarandi forseta skulu kosnir til eins árs í senn og skipta þeir þannig með sér verkum:
+
+- forseti
+- ritari
+- gjaldkeri
+- allt að 4 varaforsetar, 1 fyrir hvert svið tækifærana
+  - einstaklings
+  - samfélags
+  - viðskipta
+  - alþjóðasamstarfs
+- viðtakandi forseti, sé hann kjörinn í embætti
+- fráfarandi forseti
+
+Einstaklingur má aðeins gegna hverju ofangreindra embætta í eitt starfsár.
+
+Kjósa skal forseta fyrst, þá ritara, síðan gjaldkera, varaforseta og síðast viðtakandi forseta sé hann í framboði.
+
+Kjósa skal 2 skoðunarmenn reikninga félagsins.
 
 ## 9. grein. Starf stjórnar
 
