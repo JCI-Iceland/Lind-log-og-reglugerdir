@@ -35,22 +35,19 @@ Allir utan fráfarandi forseta skulu kosnir til eins árs í senn og skipta þei
 - forseti
 - ritari
 - gjaldkeri
-- allt að 1 viðtakandi forseti
 - allt að 4 varaforsetar, 1 fyrir hvert svið tækifærana
   - einstaklings
   - samfélags
   - viðskipta
   - alþjóðasamstarfs
-  
-Fráfarandi forseti skipar forseti síðasta kjörtímabils.
+- viðtakandi forseti, sé hann kjörinn í embætti
+- fráfarandi forseti
 
-Stjórnin er ákvörðunarhæf þegar helmingur stjórnarmanna er viðstaddur, þar með talinn forseti.
-Við stjórnarákvarðanir ræður meirihluti.
-Falli atkvæði jöfn hefur forseti úrslitaatkvæði
+Einstaklingur má aðeins gegna hverju ofangreindra embætta í eitt starfsár.
 
-Forseti og gjaldkeri skulu vera prófkúruhafar á vegum félagsins.
+Kjósa skal forseta fyrst, þá ritara, síðan gjaldkera, varaforseta og síðast viðtakandi forseta sé hann í framboði.
 
-Einstaklingur má aðeins gegna hverju embætti í eitt starfsár.
+Kjósa skal 2 skoðunarmenn reikninga félagsins.
 
 ## 9. grein.
 
