@@ -64,7 +64,28 @@ Kjósa skal forseta fyrst, þá ritara, síðan gjaldkera, varaforseta og síða
 
 Kjósa skal 2 skoðunarmenn reikninga félagsins.
 
-## 9. grein. Starf stjórnar
+## 9. grein. Kjörfundur
+
+Kjörfundur skal haldinn eigi síðar en 31. október ár hvert.
+
+Kjörfundur skal boðaður með sannanlegum hætti með viku fyrirvara, ásamt tilgreindri dagskrá.
+
+Dagskrá kjörfundar skal í það minnsta innihalda:
+
+1. Fundur settur.
+2. Kosning fundarstjóra og fundarritara.
+3. Kjörgengi fundarmanna og lögmæti fundarins staðfest.
+4. Kynning frambjóðenda og fyrirspurnir til þeirra.
+5. Kjör forseta.
+6. Kjör ritara.
+7. Kjör gjaldkera.
+8. Kjör varaforseta.
+9. Kjör viðtakandi forseta sé hann í framboði.
+10. Önnur mál.
+11. Fundargerð lesin og samþykkt.
+12. Fundi slitið.
+
+## 10. grein. Starf stjórnar
 
 Starfstími kjörinnar stjórnar er frá aðalfundi til aðalfundar.
 
@@ -84,12 +105,18 @@ Stjórnin ber ábyrgð gerða sinna fyrir aðalfundi og telst hann löglegur ef 
 
 Stjórnin skipar fulltrúa á landsþing Junior Chamber International Íslands.
 
-## 10. grein. Lögsögumaður
+## 11. grein. Lögsögumaður
 
 Forseti skipar lögsögumann félagsins við upphaf starfsárs.
 Lögsögumaður má ekki sitja í stjórn félagsins.
 
-## 11. grein. Aðalfundur
+## 12. grein. Hlutverk lögsögumans
+
+Lögsögumaður upplýsir félaga og stjórn um túlkun laga félagsins sé þess óskað og sker úr um ágreining vegna þeirra.
+
+Lögsögumaður er ábyrgur fyrir uppfærslu laga að loknum aðalfundi og að koma samþykktum lögum til stjórnar JCI Íslands.
+
+## 13. grein. Aðalfundur
 
 Aðalfundur skal haldinn í janúar ár hvert.
 
@@ -124,11 +151,11 @@ Dagskrá aðalfundar skal vera sem hér segir:
 17. Fundargerð lesin og samþykkt
 18. Fundi slitið
 
-## 12. grein. Starfsár
+## 14. grein. Starfsár
 
 Starfsár og reikningsár félagsins er eitt ár, frá áramótum til áramóta.
 
-## 13. grein. Styrktar og verkefnasjóður
+## 15. grein. Styrktar og verkefnasjóður
 
 Styrktar og verkefnasjóður JCI Lindar er myndaður úr því sem áður var Varasjóður JCI Lindar sem og hagnaði af landsþingi 2014. Upphæð sjóðsins var 800.000 kr. 1.1.2015.
 
@@ -147,50 +174,19 @@ Tillagan telst samþykkt ef 2/3 atkvæðabærra fundarmanna greiða henni atkvæ
 
 Stjórn félagsins er heimilt að bæta við höfuðstól sjóðsins að fengnu samþykki aðalfundar.
 
-## 14. grein. Félagsslit
-(Færa hana aftast og endurraða öðrum greinum til samræmis)
+## 16. grein. Reglugerðir
+
+Heimilt er að kveða nánar á um starfsemi félagsins í reglugerð og skulu breytingar á þeim kynntar á félagsfundi.
+Þær taka gildi þegar búið er að sýna félagsmönnum þær með sannanlegum hætti.
+
+## 17. grein. Fundarsköp og landslög
+
+Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þessum.
+
+## 18. grein. Félagsslit
 
 Ákvörðun um félagsslit skal tekin af tveimur fundum í röð, sem boða skal til eins og um aðalfund væri að ræða.
 Til samþykktar þarf 2/3 hluta atkvæða á báðum fundum.
 Á seinni fundinum skal tekin ákvörðun um ráðstöfun eigna.
 
-## 15. grein. Fundarsköp og landslög
-
-Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þessum.
-
-## 16. grein. Hlutverk lögsögumans
-(Þessi grein kemur eftir grein um skipan lögsögumanns og aðrar greinar endurraðast í samræmi)
-
-Lögsögumaður upplýsir félaga og stjórn um túlkun laga félagsins sé þess óskað og sker úr um ágreining vegna þeirra.
-
-Lögsögumaður er ábyrgur fyrir uppfærslu laga að loknum aðalfundi og að koma samþykktum lögum til stjórnar JCI Íslands.
-
-## Ný. grein. Reglugerðir
-(Lendir eftir grein um styrktarsjóð og aðrar greinar endurraðast í samræmi)
-
-Heimilt er að kveða nánar á um starfsemi félagsins í reglugerð og skulu breytingar á þeim kynntar á félagsfundi.
-Þær taka gildi þegar búið er að sýna félagsmönnum þær með sannanlegum hætti.
-
-##  9. grein. Kjörfundur
-(Nýsamþykkt 9. grein verður 10. grein og allar greinar eftir þar hækka um 1)
-
-Kjörfundur skal haldinn eigi síðar en 31. október ár hvert.
-
-Kjörfundur skal boðaður með sannanlegum hætti með viku fyrirvara, ásamt tilgreindri dagskrá.
-
-Dagskrá kjörfundar skal í það minnsta innihalda:
-
-1. Fundur settur.
-2. Kosning fundarstjóra og fundarritara.
-3. Kjörgengi fundarmanna og lögmæti fundarins staðfest.
-4. Kynning frambjóðenda og fyrirspurnir til þeirra.
-5. Kjör forseta.
-6. Kjör ritara.
-7. Kjör gjaldkera.
-8. Kjör varaforseta.
-9. Kjör viðtakandi forseta sé hann í framboði.
-10. Önnur mál.
-11. Fundargerð lesin og samþykkt.
-12. Fundi slitið.
-
-Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 29. janúar 2017 Tryggvi Freyr Elínarson, ritari aðalfundar. Árni Árnason, fundarstjóri aðalfundar.
+Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 15. janúar 2018 Ríkey Jóna Eiríksdóttir, ritari aðalfundar. Kjartan Hnasson, fundarstjóri aðalfundar.
