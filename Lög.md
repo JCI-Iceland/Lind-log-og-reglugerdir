@@ -139,4 +139,10 @@ Lögsögumaður upplýsir félaga og stjórn um túlkun laga félagsins sé þes
 
 Lögsögumaður er ábyrgur fyrir uppfærslu laga að loknum aðalfundi og að koma samþykktum lögum til stjórnar JCI Íslands.
 
+## Ný. grein. Reglugerðir
+(Lendir eftir grein um styrktarsjóð og aðrar greinar endurraðast í samræmi)
+
+Heimilt er að kveða nánar á um starfsemi félagsins í reglugerð og skulu breytingar á þeim kynntar á félagsfundi.
+Þær taka gildi þegar búið er að sýna félagsmönnum þær með sannanlegum hætti.
+
 Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 29. janúar 2017 Tryggvi Freyr Elínarson, ritari aðalfundar. Árni Árnason, fundarstjóri aðalfundar.
