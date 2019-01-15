@@ -113,22 +113,24 @@ Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þes
 
 Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér um að senda breytingar á lögum til stjórnar JCI Íslands.
 
-##  17. grein. Kjörfundur
+##  9. grein. Kjörfundur
+(Nýsamþykkt 9. grein verður 10. grein og allar greinar eftir þar hækka um 1)
 
-Kjörfundur skal haldin eigi síðar en 31. október ár hvert.
+Kjörfundur skal haldinn eigi síðar en 31. október ár hvert.
 
 Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dagskrá.
 
-Dagskrá kjörfundar skal vera sem hér segir:
+Dagskrá kjörfundar skal í það minnsta innihalda:
+
 1. Fundur settur.
 2. Kosning fundarstjóra og fundarritara.
-3. Athugað kjörgengi fundarmanna og lögmæti fundarins kannað.
+3. Kjörgengi fundarmanna og lögmæti fundarins staðfest.
 4. Kynning frambjóðenda og fyrirspurnir til þeirra.
 5. Kjör forseta.
 6. Kjör ritara.
 7. Kjör gjaldkera.
 8. Kjör varaforseta.
-9. Kjör viðtakandi forseta.
+9. Kjör viðtakandi forseta sé hann í framboði.
 10. Önnur mál.
 11. Fundargerð lesin og samþykkt.
 12. Fundi slitið.
