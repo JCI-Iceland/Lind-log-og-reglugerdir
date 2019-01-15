@@ -145,4 +145,26 @@ Lögsögumaður er ábyrgur fyrir uppfærslu laga að loknum aðalfundi og að k
 Heimilt er að kveða nánar á um starfsemi félagsins í reglugerð og skulu breytingar á þeim kynntar á félagsfundi.
 Þær taka gildi þegar búið er að sýna félagsmönnum þær með sannanlegum hætti.
 
+##  9. grein. Kjörfundur
+(Nýsamþykkt 9. grein verður 10. grein og allar greinar eftir þar hækka um 1)
+
+Kjörfundur skal haldinn eigi síðar en 31. október ár hvert.
+
+Kjörfundur skal boðaður með sannanlegum hætti með viku fyrirvara, ásamt tilgreindri dagskrá.
+
+Dagskrá kjörfundar skal í það minnsta innihalda:
+
+1. Fundur settur.
+2. Kosning fundarstjóra og fundarritara.
+3. Kjörgengi fundarmanna og lögmæti fundarins staðfest.
+4. Kynning frambjóðenda og fyrirspurnir til þeirra.
+5. Kjör forseta.
+6. Kjör ritara.
+7. Kjör gjaldkera.
+8. Kjör varaforseta.
+9. Kjör viðtakandi forseta sé hann í framboði.
+10. Önnur mál.
+11. Fundargerð lesin og samþykkt.
+12. Fundi slitið.
+
 Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 29. janúar 2017 Tryggvi Freyr Elínarson, ritari aðalfundar. Árni Árnason, fundarstjóri aðalfundar.
