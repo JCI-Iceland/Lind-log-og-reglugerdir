@@ -107,7 +107,8 @@ Tillagan skal send með fundarboði og borin upp á fundinum.
 Tillagan telst samþykkt ef 2/3 atkvæðabærra fundarmanna greiða henni atkvæði.
 Stjórn félagsins er heimilt að bæta við höfuðstól sjóðsins að fengnu samþykki aðalfundar.
 
-## 14. grein.
+## 14. grein. Félagsslit
+(Færa hana aftast og endurraða öðrum greinum til samræmis)
 
 Ákvörðun um félagsslit skal tekin af tveimur fundum í röð, sem boða skal til eins og um aðalfund væri að ræða.
 Til samþykktar þarf 2/3 hluta atkvæða á báðum fundum.
