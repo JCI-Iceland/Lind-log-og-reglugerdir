@@ -7,23 +7,21 @@ Félagið heitir Junior Chamber International Lind. Starfssvæði félagsins er 
 
 Starf félagsins skal einkennast af einkunnarorðum Junior Chamber International Íslands. Tilgangur félagsins í anda einkunnarorðanna er: Að skapa tækifæri fyrir ungt fólk til að efla leiðtogahæfileika sína, félagslega ábyrgð, frumkvæði og þá samkennd sem nauðsynleg er til að stuðla að jákvæðum breytingum í heiminum. Hreyfingin starfar án tillits til stjórnmálaskoðana, trúarbragða, kyns, litarháttar eða þjóðernis. Að efla félaga sína með námskeiðahaldi og stjórnþjálfun. Að auka þekkingu félaga sinna í þjóðfélags- og alþjóðamálum. Að auka þjóðfélagslegan framganga félagsins og stuðla að framförum í samfélaginu. Að vinna í góðri samvinnu við Junior Chamber hreyfinguna hérlendis og erlendis að hvers kyns áhugamálum hennar.
 
-## 3. grein. Skilyrði fyrir inngöngu
+## 3. grein. Aðild
 
-Skilyrði fyrir inngöngu í JCI Lind eru: Að vera á aldrinum 18 - 40 ára, þó er heimilt að ljúka starfsárinu sem viðkomandi verður fertugur á.
-
-## 4. grein. Félagar
-
-Fullgildir félagar teljast þeir einir sem greitt hafa árgjald sitt fyrir hvert ár er þeir starfa í félaginu og eru á aldrinum 18-39, þó er heimilt að ljúka starfsárinu sem viðkomandi verður 40.
+Félagar JCI Lind skulu vera á aldrinum 18 - 40 ára, þó er heimilt að ljúka starfsárinu sem viðkomandi verður fertugur á.
 
 Fráfarandi forseti er einn undanþeginn þessu ákvæði.
 
-Félagi getur orðið heiðursfélagi. Samanber lög JCI Ísland.
+## 4. grein. Félagar
 
-Félagi getur haldist í félaginu sem styrktarfélagi haldi hann áfram að borga félagsgjöld.
-
-Heiðurs- og styrktarfélagar geta tekið þátt í störfum félagsins, þó án atkvæðaréttar og kjörgengis.
+Fullgildir félagar teljast þeir einir sem greitt eða samið um árgjald sitt fyrir hvert ár er þeir starfa í félaginu.
 
 Einungis fullgildir félagar hafa atkvæðarétt á fundum félagsins.
+
+Við fertugt getur félagi orðið styrktarfélagi haldi hann áfram að borga félagsgjöld.
+
+Senatorar og Styrktarfélagar geta tekið þátt í störfum félagsins eftir fertugt, þó án atkvæðaréttar og kjörgengis.
 
 ## 5. grein.
 
