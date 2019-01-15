@@ -1,8 +1,8 @@
 # Lög JCI Lindar Junior Chamber International Lind
 
-## 1. grein.
+## 1. grein. Félagið
 
-Félagið heitir Junior Chamber International Lind. Starfssvæði félagsins er höfuðborgarsvæðið. Félagið er aðildarfélag Junior Chamber International Íslands.
+Félagið heitir Junior Chamber International Lind, skammstafað JCI Lind.  Félagið er aðildarfélag Junior Chamber International Íslands.
 
 ## 2. grein. Starf félagsins
 
@@ -14,23 +14,31 @@ Starf félagsins skal einkennast af einkunnarorðum Junior Chamber International
 - auka þjóðfélagslegan framgang félagsins og stuðla að framförum í samfélaginu.
 - vinna í góðri samvinnu við Junior Chamber hreyfinguna hérlendis og erlendis að hvers kyns áhugamálum hennar. 
 
-## 3. grein.
+## 3. grein. Aðild
 
-Skilyrði fyrir inngöngu í JCI Lind eru: Að vera á aldrinum 18 - 40 ára, þó er heimilt að ljúka starfsárinu sem viðkomandi verður fertugur á. Fráfarandi forseti er einn undanþeginn þessu ákvæði. Félagar geta orðið heiðursfélagar. Þeir geta tekið þátt í störfum félagsins sem og aðrir, þó án atkvæðaréttar og kjörgengis.
+Félagar JCI Lind skulu vera á aldrinum 18 - 40 ára, þó er heimilt að ljúka starfsárinu sem viðkomandi verður fertugur á.
 
-## 4. grein.
+Fráfarandi forseti er einn undanþeginn þessu ákvæði.
 
-Fullgildir félagar teljast þeir einir sem greitt hafa árgjald sitt fyrir hvert ár er þeir starfa í félaginu. Einungis fullgildir félagar hafa atkvæðarétt á fundum félagsins. Hámarksfjöldi fullgildra félaga er 45 að undanskildum Heiðursfélögum og Senatorum.
+## 4. grein. Félagar
 
-## 5. grein.
+Fullgildir félagar teljast þeir einir sem greitt eða samið hafa um árgjald sitt fyrir hvert ár er þeir starfa í félaginu.
 
-Félagið gefur út félagatal og heldur utan um stig félaga sinna á JCI braut.
+Einungis fullgildir félagar hafa atkvæðarétt á fundum félagsins.
 
-## 6. grein.
+Við fertugt getur félagi orðið styrktarfélagi haldi hann áfram að borga félagsgjöld.
 
-Félagið heldur gerðarbók og mætingabók. Fundargerðir skal staðfesta á næsta félagsfundi.
+Senatorar og Styrktarfélagar geta tekið þátt í störfum félagsins eftir fertugt, þó án atkvæðaréttar.
 
-## 7. grein.
+## 5. grein. Félagatal
+
+Félagið heldur félagatal og heldur utan um stig félaga sinna á JCI braut.
+
+## 6. grein. Fundargerðir
+
+Félagið heldur Gerðarbók, þar skulu fundargerðir vistaðar. Fundargerðir skal staðfesta á félagsfundi.
+
+## 7. grein. Ákvörðunarvald
 
 Æðsta vald félagsins er í höndum fullgildra félaga á aðalfundi. Á milli aðalfunda fer réttkjörin stjórn með vald félagsins.
 
@@ -40,22 +48,40 @@ Stjórn félagsins skal skipuð 5-7 stjórnarmönnum, þar af skulu allir nema f
 
 ## 9. grein.
 
-Starfstími kjörinnar stjórnar er frá áramótum til áramóta. Stjórnin hefur heimild til að kalla sérhvern almennan félaga sér til aðstoðar um starfsemi félagsins. Stjórnin skal skipuleggja og stýra starfi félagsins milli aðalfunda og fer hún með framkvæmda- og ákvörðunarvald félagsins. Stjórnin skipar nefndir, stjórnar starfsemi félagsins og boðar til framkvæmdastjórnarfundar þegar henni telst vera þörf á. Til að stjórnin sé ákvörðunarhæf þarf meirihluti stjórnar að vera mættur og þ.á.m. handhafi forsetavalds. Meirihluti atkvæða á stjórnarfundum ræður úrslitum, en falli atkvæði jöfn hefur forseti úrslitaatkvæði. Til að skuldbinda félagið þarf undirskrift forseta og annars stjórnarmanns, en aðeins gjaldkeri, sem prókúruhafi, getur gefið út ávísanir fyrir hönd félagsins, eða sá stjórnarmaður sem fer með fjármál félagsins. Stjórnin ber ábyrgð gerða sinna fyrir aðalfundi og telst hann löglegur ef löglega er til hans boðað. Stjórnin skipar fulltrúa á landsþing Junior Chamber International Íslands.
+Starfstími kjörinnar stjórnar er frá áramótum til áramóta.
+Stjórnin hefur heimild til að kalla sérhvern almennan félaga sér til aðstoðar um starfsemi félagsins.
+Stjórnin skal skipuleggja og stýra starfi félagsins milli aðalfunda og fer hún með framkvæmda- og ákvörðunarvald félagsins.
+Stjórnin skipar nefndir, stjórnar starfsemi félagsins og boðar til framkvæmdastjórnarfundar þegar henni telst vera þörf á.
+Til að stjórnin sé ákvörðunarhæf þarf meirihluti stjórnar að vera mættur og þ.á.m. handhafi forsetavalds.
+Meirihluti atkvæða á stjórnarfundum ræður úrslitum, en falli atkvæði jöfn hefur forseti úrslitaatkvæði.
+Til að skuldbinda félagið þarf undirskrift forseta og annars stjórnarmanns, en aðeins gjaldkeri, sem prókúruhafi, getur gefið út ávísanir fyrir hönd félagsins, eða sá stjórnarmaður sem fer með fjármál félagsins.
+Stjórnin ber ábyrgð gerða sinna fyrir aðalfundi og telst hann löglegur ef löglega er til hans boðað.
+Stjórnin skipar fulltrúa á landsþing Junior Chamber International Íslands.
 
 ## 10. grein.
 
-Forseti skipar lögsögumann félagsins við upphaf starfsárs. Lögsögumaður má ekki sitja í stjórn félagsins.
+Forseti skipar lögsögumann félagsins við upphaf starfsárs.
+Lögsögumaður má ekki sitja í stjórn félagsins.
 
-## 11. grein.
+## 11. grein. Aðalfundur
 
-Aðalfundur skal haldinn í janúar ár hvert. Á öðrum árstímum getur stjórnin boðað til aukaaðalfundar, ef helmingur félagsins eða stjórn óskar þess með rökstuddri beiðni.
+Aðalfundur skal haldinn í janúar ár hvert.
+
+Á öðrum árstímum skal stjórnin boða til aukaaðalfundar, ef helmingur félagsins eða stjórn óskar þess með rökstuddri beiðni. Hann skal boðaður innan 2 vikna.
+
 Dagsetningu aðalfunds skal tilkynna í fréttabréfi, vef félagsins eða með sambærilegum hætti að lágmarki 21 degi fyrir fund.
-Aðalfund og aukaaðalfund skal boða skriflega og sannanlega, með viku fyrirvara ásamt tilgreindri dagskrá. Hver skuldlaus félagi, sem er á skrá félagsins yfir almenna félaga hefur eitt atkvæði á aðalfundi. Lagabreytingar má aðeins gera, að 2/3 hlutar atkvæðisbærra fundarmanna greiði þeim atkvæði. Tillögur að lagabreytingum skal skilað til stjórnar eigi síðar en 14 dögum fyrir aðalfund og skulu þær sendar út með aðalfundarboði. Aðalfundur velur sér fundarstjóra og fundarritara.
+
+Aðalfund og aukaaðalfund skal boða með sannanlegum hætti, með viku fyrirvara ásamt tilgreindri dagskrá.
+Hver fullgildur félagi sem er á skrá félagsins yfir almenna félaga hefur eitt atkvæði á aðalfundi.
+Lagabreytingar má aðeins gera, að 2/3 hlutar atkvæðisbærra fundarmanna greiði þeim atkvæði.
+Tillögur að lagabreytingum skal skilað til stjórnar eigi síðar en 14 dögum fyrir aðalfund og skulu þær sendar út með aðalfundarboði.
+Aðalfundur velur sér fundarstjóra og fundarritara.
+
 Dagskrá aðalfundar skal vera sem hér segir:
 
 1. Fundarsetning
 2. Kjör fundarstjóra og fundarritara
-3. Einkunnarorð Junior Chamber International
+3. Tilgangur, takmark og einkunnarorð JCI Íslands lesin
 4. Staðfest lögmæti fundarins og kjörgengi fundarmanna
 5. Skýrsla stjórnar
 6. Reikningar félagsins lagðir fram
@@ -76,15 +102,41 @@ Dagskrá aðalfundar skal vera sem hér segir:
 
 Starfsár og reikningsár félagsins er eitt ár, frá áramótum til áramóta.
 
-## 13. grein.
+## 13. grein. Styrktar og verkefnasjóður
 
-Styrktar og verkefnasjóður JCI Lindar er myndaður úr því sem áður var Varasjóður JCI Lindar sem og hagnaði af landsþingi 2014. Upphæð sjóðsins er 800.000 miðað við 1.1.2015. Meðlimir JCI Lindar geta sótt um styrki til að sækja viðburði, akademíur og þing á vegum JCI hreyfingarinnar, svo sem heimsþing eða European Academy. Meðlimir í JCI Lind geta sótt um styrki vegna verkefna á vegum JCI sem samrýmast tilgangi JCI Lindar samanber 2. gr. þessara laga. Að hámarki er heimilt að veita 20% af höfuðstól sjóðsins eins og hann er 1. Janúar í styrki á hverju starfsári. Styrktarbeiðnir þurfa einróma samþykki stjórnar til að teljast samþykktar. Ef stjórn félagsins hyggst veita styrki umfram 20% af höfuðstól sjóðsins, skal stjórnin boða til félagsfundar. Tillagan skal send með fundarboði og borin upp á fundinum. Tillagan telst samþykkt ef 2/3 atkvæðabærra fundarmanna greiða henni atkvæði. Stjórn félagsins er heimilt að bæta við höfuðstól sjóðsins að fengnu samþykki aðalfundar.
+Styrktar og verkefnasjóður JCI Lindar er myndaður úr því sem áður var Varasjóður JCI Lindar sem og hagnaði af landsþingi 2014. Upphæð sjóðsins var 800.000 kr. 1.1.2015.
 
-## 14. grein.
+Meðlimir JCI Lindar geta sótt um styrki til að sækja viðburði, akademíur og þing á vegum JCI hreyfingarinnar, svo sem heimsþing eða European Academy.
 
-Ákvörðun um félagsslit skal tekin af tveimur fundum í röð, sem boða skal til eins og um aðalfund væri að ræða. Til samþykktar þarf 2/3 hluta atkvæða á báðum fundum. Á seinni fundinum skal tekin ákvörðun um ráðstöfun eigna.
+Meðlimir í JCI Lind geta sótt um styrki vegna verkefna á vegum JCI sem samrýmast tilgangi JCI Lindar samanber 2. gr. þessara laga.
 
-## 15. grein.
+Að hámarki er heimilt að veita 30% af höfuðstól sjóðsins eins og hann er 1. janúar í styrki á hverju starfsári. 
 
-Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þessum. 16. grein. Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér um að senda breytingar á lögum til stjórnar JCI Íslands.
+Styrktarbeiðnir þurfa að vera samþykktar með 2/3 atkvæða stjórnar til að teljast samþykktar.
+
+Ef stjórn félagsins hyggst veita styrki umfram hámark af höfuðstól sjóðsins, skal stjórnin boða til félagsfundar.
+
+Tillagan skal send með fundarboði og borin upp á fundinum.
+Tillagan telst samþykkt ef 2/3 atkvæðabærra fundarmanna greiða henni atkvæði.
+
+Stjórn félagsins er heimilt að bæta við höfuðstól sjóðsins að fengnu samþykki aðalfundar.
+
+## 14. grein. Félagsslit
+(Færa hana aftast og endurraða öðrum greinum til samræmis)
+
+Ákvörðun um félagsslit skal tekin af tveimur fundum í röð, sem boða skal til eins og um aðalfund væri að ræða.
+Til samþykktar þarf 2/3 hluta atkvæða á báðum fundum.
+Á seinni fundinum skal tekin ákvörðun um ráðstöfun eigna.
+
+## 15. grein. Fundarsköp og landslög
+
+Lög um félög og fundarsköp ráða þar sem fyrirmæli skortir í lögum þessum.
+
+## 16. grein. Hlutverk lögsögumans
+(Þessi grein kemur eftir grein um skipan lögsögumanns og aðrar greinar endurraðast í samræmi)
+
+Lögsögumaður upplýsir félaga og stjórn um túlkun laga félagsins sé þess óskað og sker úr um ágreining vegna þeirra.
+
+Lögsögumaður er ábyrgur fyrir uppfærslu laga að loknum aðalfundi og að koma samþykktum lögum til stjórnar JCI Íslands.
+
 Þessi lög voru samþykkt á aðalfundi JCI Lindar þann 29. janúar 2017 Tryggvi Freyr Elínarson, ritari aðalfundar. Árni Árnason, fundarstjóri aðalfundar.
