@@ -51,12 +51,13 @@ Lögsögumaður má ekki sitja í stjórn félagsins.
 ## 11. grein. Aðalfundur
 
 Aðalfundur skal haldinn í janúar ár hvert.
-Á öðrum árstímum skal stjórnin boðað til aukaaðalfundar, ef helmingur félagsins utan stjórnar eða stjórn óskar þess með rökstuddri beiðni.Hann skal boðaður innan 2 vikna.
+
+Á öðrum árstímum skal stjórnin boða til aukaaðalfundar, ef helmingur félagsins eða stjórn óskar þess með rökstuddri beiðni. Hann skal boðaður innan 2 vikna.
 
 Dagsetningu aðalfunds skal tilkynna í fréttabréfi, vef félagsins eða með sambærilegum hætti að lágmarki 21 degi fyrir fund.
 
-Aðalfund og aukaaðalfund skal boða skriflega og sannanlega, með viku fyrirvara ásamt tilgreindri dagskrá.
-Hver skuldlaus félagi, sem er á skrá félagsins yfir almenna félaga hefur eitt atkvæði á aðalfundi.
+Aðalfund og aukaaðalfund skal boða með sannanlegum hætti, með viku fyrirvara ásamt tilgreindri dagskrá.
+Hver fullgildur félagi sem er á skrá félagsins yfir almenna félaga hefur eitt atkvæði á aðalfundi.
 Lagabreytingar má aðeins gera, að 2/3 hlutar atkvæðisbærra fundarmanna greiði þeim atkvæði.
 Tillögur að lagabreytingum skal skilað til stjórnar eigi síðar en 14 dögum fyrir aðalfund og skulu þær sendar út með aðalfundarboði.
 Aðalfundur velur sér fundarstjóra og fundarritara.
@@ -65,7 +66,7 @@ Dagskrá aðalfundar skal vera sem hér segir:
 
 1. Fundarsetning
 2. Kjör fundarstjóra og fundarritara
-3. Tilgangur, takmark og einkunarorð JCI Íslands lesið
+3. Tilgangur, takmark og einkunnarorð JCI Íslands lesið
 4. Staðfest lögmæti fundarins og kjörgengi fundarmanna
 5. Skýrsla stjórnar
 6. Reikningar félagsins lagðir fram
