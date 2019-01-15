@@ -118,7 +118,7 @@ Lögsögumaður félagsins sér til þess að lögum þessum sé fylgt og sér u
 
 Kjörfundur skal haldinn eigi síðar en 31. október ár hvert.
 
-Kjörfundur skal boðaður skriflega með viku fyrirvara, ásamt tilgreindri dagskrá.
+Kjörfundur skal boðaður með sannanlegum hætti með viku fyrirvara, ásamt tilgreindri dagskrá.
 
 Dagskrá kjörfundar skal í það minnsta innihalda:
 
